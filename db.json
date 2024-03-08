@@ -1,22 +1,22 @@
 {
-  "awards": [
-    {
-      "name": "John Doe",
-      "image": "https://cdn.pixabay.com/photo/2023/04/11/13/27/bird-7917250_1280.jpg",
-      "company": "Example Company",
-      "award": "Go-Getter Award",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam accumsan magna nec. ",
-      "date": "February 2024",
-      "alt": "Slide 1"
-    },
-     {
-      "name": "jane Doe",
-      "image": "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
-      "company": "Example Company",
-      "award": "Go-Getter Award",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam accumsan magna nec. ",
-      "date": "February 2024",
-      "alt": "Slide 1"
-    },
-  ]
+    "awards": [
+        {
+            "name": "John Doe",
+            "image": "https://cdn.pixabay.com/photo/2023/04/11/13/27/bird-7917250_1280.jpg",
+            "company": "Example Company",
+            "award": "Go-Getter Award",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam accumsan magna nec. ",
+            "date": "February 2024",
+            "alt": "Slide 1"
+        },
+        {
+            "name": "jane Doe",
+            "image": "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
+            "company": "Example Company",
+            "award": "Go-Getter Award",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam accumsan magna nec. ",
+            "date": "February 2024",
+            "alt": "Slide 1"
+        }
+    ]
 }
